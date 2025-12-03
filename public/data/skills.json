@@ -1,0 +1,14 @@
+[
+  { "name": "Unity 3D/2D", "level": 98, "category": "Core" },
+  { "name": "C# / .NET", "level": 95, "category": "Core" },
+  { "name": "Architecture (MVC/ECS)", "level": 90, "category": "Core" },
+  { "name": "UI System / UGUI", "level": 95, "category": "System" },
+  { "name": "Combat Systems", "level": 92, "category": "System" },
+  { "name": "Performance Optimization", "level": 88, "category": "System" },
+  { "name": "Odin Inspector", "level": 90, "category": "Tools" },
+  { "name": "DOTween / PrimeTween", "level": 95, "category": "Tools" },
+  { "name": "MemoryPack", "level": 85, "category": "Tools" },
+  { "name": "Behavior Tree / AI", "level": 85, "category": "Other" },
+  { "name": "Addressables / AssetBundles", "level": 80, "category": "Other" },
+  { "name": "Shader / VFX", "level": 75, "category": "Other" }
+]
