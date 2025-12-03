@@ -6,9 +6,9 @@
   { "name": "Combat Systems", "level": 92, "category": "System" },
   { "name": "Performance Optimization", "level": 88, "category": "System" },
   { "name": "Odin Inspector", "level": 90, "category": "Tools" },
-  { "name": "DOTween / PrimeTween", "level": 95, "category": "Tools" },
+  { "name": "PrimeTween / DOTween", "level": 95, "category": "Tools" },
   { "name": "MemoryPack", "level": 85, "category": "Tools" },
   { "name": "Behavior Tree / AI", "level": 85, "category": "Other" },
-  { "name": "Addressables / AssetBundles", "level": 80, "category": "Other" },
-  { "name": "Shader / VFX", "level": 75, "category": "Other" }
+  { "name": "AssetBundles", "level": 80, "category": "Other" },
+  { "name": "TimeLine", "level": 75, "category": "Other" }
 ]
