@@ -4,14 +4,16 @@
     "title": "Project Alpha",
     "date": "2023.10",
     "tags": ["Unity ECS", "DOTS"],
-    "description": "一个基于 Unity ECS 架构的高性能战斗演示，同屏支持 5000+ 单位渲染与逻辑运算。"
+    "description": "一个基于 Unity ECS 架构的高性能战斗演示，同屏支持 5000+ 单位渲染与逻辑运算。",
+    "link": "" 
   },
   { 
     "url": "https://raw.githubusercontent.com/floatingsnowflake/MyHomepageAssets/main/public/assets/images/universe/proj_2.jpg",
     "title": "Project Beta",
     "date": "2023.08",
     "tags": ["Shader Graph", "VFX"],
-    "description": "专注于次世代渲染效果的实验性项目，包含体积云、动态全局光照以及高度风格化的后处理效果。"
+    "description": "专注于次世代渲染效果的实验性项目，包含体积云、动态全局光照以及高度风格化的后处理效果。",
+     "link": "https://www.bilibili.com/" 
   },
   { 
     "url": "https://raw.githubusercontent.com/floatingsnowflake/MyHomepageAssets/main/public/assets/images/universe/proj_3.jpg",

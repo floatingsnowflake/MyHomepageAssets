@@ -13,7 +13,7 @@
     "summary": "丰富的2D/3D游戏制作经验，主导开发过《命骸》等复杂项目。作为闲鱼平台Unity领域的“外包战士”，累计解决3800+技术难题，拥有极强的Debug能力与架构设计思维。",
     "cta_project": "查看核心项目 (命骸)",
     "cta_contact": "联系我",
-    "scroll": "SCROLL_DOWN"
+    "scroll": "往下滑"
   },
   "minghai": {
     "subtitle": "Flagship Project",
@@ -21,7 +21,15 @@
     "video_label": "PV 展示",
     "desc_html": "作为项目<b>总程序</b>，编写超过<b>8万行代码</b>。负责从底层架构到上层玩法的全方位实现。这是一个复杂的 3D 横版 RPG，核心包含连击战斗系统、MemoryPack 高性能存档、高度模块化的任务与对话系统。",
     "steam_btn": "在 Steam 上查看命骸",
-    "internal_btn": "查看内部技术文档"
+    "internal_btn": "查看内部技术文档",
+     "features": [
+	"RPG战斗系统",
+	"对象池框架",
+	  "特效音效系统",
+      "MemoryPack 高性能存档框架",
+      "Cinemachine 动态相机系统",
+      "高度模块化的任务与对话架构"
+    ]
   },
   "skills": {
     "title": "技术栈与能力",
@@ -35,6 +43,8 @@
     "title_highlight": "Unity 外包战士",
     "desc": "自2024年以来，我在闲鱼平台累计处理超过 3,800+ 单 Unity 相关问题。这不仅是数字，更是处理过数千个不同项目架构、不同Bug类型的经验积累。无论是大语言模型对接、无人机仿真，还是传统的2D/3D游戏开发，我都拥有极速定位问题和解决问题的能力。",
     "tags": [
+      "桌宠",
+      "音游",
       "数据可视化",
       "3D钓鱼",
       "车企UI交互",
@@ -50,7 +60,7 @@
     "locked_btn": "Access Denied"
   },
   "gallery": {
-    "quote": "\"Everything is connected to the choice of Steins;Gate.\""
+    "quote": "\"这一切都是命运石之门的选择。Everything is connected to the choice of Steins;Gate.\""
   },
   "footer": {
     "title": "Let's Create Something Amazing",
