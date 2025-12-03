@@ -13,7 +13,7 @@
     "summary": "丰富的2D/3D游戏制作经验，主导开发过《命骸》等复杂项目。作为闲鱼平台Unity领域的“外包战士”，累计解决3800+技术难题，拥有极强的Debug能力与架构设计思维。",
     "cta_project": "查看核心项目 (命骸)",
     "cta_contact": "联系我",
-    "scroll": "往下滑"
+    "scroll": "往下滑s"
   },
   "minghai": {
     "subtitle": "Flagship Project",
@@ -27,7 +27,8 @@
       "MemoryPack 高性能存档框架",
       "Cinemachine 动态相机系统",
       "高度模块化的任务与对话架构"
-    ]
+    ],
+   "tags": ["Unity 2022+", "C#", "UGUI", "MemoryPack", "Cinemachine"]
   },
   "skills": {
     "title": "技术栈与能力",
